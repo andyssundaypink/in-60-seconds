@@ -1,9 +1,7 @@
 # Let's Get Started Andys!
 
 
----?color=linear-gradient(90deg, black 25%, white 25%)
-
-
+---?color=linear-gradient(90deg, black 75%, white 25%)
 
 @snap[east span-75 text-center]
 # @fa[laptop-code fa-3x text-gold]
