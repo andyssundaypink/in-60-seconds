@@ -10,9 +10,11 @@ The Template @snapend
 # Let's Get Started Andys!
 
 
----?color=linear-gradient(90deg, black 75%, white 25%)
+---?color=linear-gradient(90deg, black 25%, white 25%)
 
-
+@snap[east span-75 text-center]	
+ # Haiyaaaahh
+@snapend
 
 @snap[west span-15 text-center h1-white]
 # A
