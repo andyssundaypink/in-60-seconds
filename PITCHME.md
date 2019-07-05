@@ -13,7 +13,7 @@ The Template @snapend
 ---?color=linear-gradient(90deg, black 25%, white 25%)
 
 @snap[east span-75 text-center]	
- # Haiyaaaahh
+# Haiyaaaahh
 @snapend
 
 @snap[west span-15 text-center h1-white]
