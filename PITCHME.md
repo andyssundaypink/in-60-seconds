@@ -3,14 +3,18 @@
 
 ---?color=linear-gradient(90deg, black 25%, white 25%)
 
-@snap[west span-15 text-center h1-white]
-# A
-@snapend
+
 
 @snap[east span-75 text-center]
 # @fa[laptop-code fa-3x text-gold]
 @snapend
+
+@snap[west span-15 text-center h1-white]
+# A
+@snapend
+
 ---
+
 ## Add Some Slide Candy
 
 ![](assets/img/presentation.png)
